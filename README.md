@@ -7,8 +7,6 @@ Scripts implemented include LD score regression, sex-stratified common factor GW
 
 # Input GWAS
 
-Endometrial cancer: 17,278 cases, 289,180 controls (N = 306,458)
-
 Six adiposity traits were analysed sex-stratified, alongside endometrial cancer as the outcome trait. All GWAS were conducted in individuals of European ancestry.
 
 # Female adiposity GWAS
@@ -26,3 +24,6 @@ Six adiposity traits were analysed sex-stratified, alongside endometrial cancer 
 - Visceral adipose tissue: N = 19,038 (PMID: 35773277)
 - Abdominal subcutaneous adipose tissue: N = 19,038 (PMID: 35773277)
 - Gluteofemoral adipose tissue: N = 19,038 (PMID: 35773277)
+
+# Endometrial cancer
+17,278 cases, 289,180 controls (N = 306,458)
